@@ -1,0 +1,24 @@
+h1{
+    display: inline;
+}
+
+.menu{
+    float: none;
+    display:inline;
+    float: right;
+}
+
+.main{
+    background-color: bisque;
+    margin-top: 50px;
+    height: 450px;
+    margin-left: 250px;
+    display: block;
+}
+
+.footer{
+    display: inline;
+    background-color: blueviolet;
+    height: 150px;
+    width: 1280px;
+}
