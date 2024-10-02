@@ -1,2 +1,2 @@
 Food-Delivery Frontend 
-Downlaod and hit npm run dev
+Download and hit npm run dev
